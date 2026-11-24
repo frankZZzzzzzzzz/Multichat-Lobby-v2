@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 
-import AppInitializer from "./AppInitializer";
+import AppInitializer from "./AuthProvider";
 
 export const metadata: Metadata = {
   title: "Create Next App",
